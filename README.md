@@ -5,9 +5,9 @@
   
 ## Description
 
-This application was created and is used for backend development. This is an employee manager created with the mysql2 node package. It's an application designed for company's to view,update,and manage the employees through a database. It allows you to add,view, and delete roles, departments, and employees within a company. The application is used by the user through a series of prompts to be answered in the command line using nodes inquirer package. These answers directly effect the employee manager database.
+This application was created and is used for backend development. This is an employee manager created with the mysql2 node package. It's an application designed for company's to view,update,and manage the employees through a database. It allows you to add,view, and delete properties within your database. You can also view cost management by location or state. It automatically calculates cost with a preestimated mortgage cost tax by state that has been integrated into the CLI prompts. Simply answer the prompts given and the calculations with be completed for you.. The application is used by the user through a series of prompts to be answered in the command line using nodes inquirer package. These answers directly effect the property manager database.
 
-My main motivation for this application was to create an application to allow a company, big or small, to manage employees easily. It's a much more simple way to see everything about your company  that you need regarding employees, right in front of your eyes.
+My main motivation for this application was to create an application to allow an individual to manage properties for multiple properties. You can view all costs including mortgage, rent, loan, ect of individual properties or all of them totally added up.
   
 ## Table of Contents
 
@@ -32,14 +32,14 @@ Before using this generator I first had to make sure I had the necessary applica
 
 ## Usage
 
-For an employer or myself to use this application you simply make sure you are in the root directory and type `node index.js` into the CLI. From here you are now in the employee manager, and you can add employees, roles, departments, remove them,view everything, and more. Here are a few screenshots determining the live usage:
+For an propertymanager or myself to use this application you simply make sure you are in the root directory and type `node index.js` into the CLI. From here you are now in the employee manager, and you can add employees, roles, departments, remove them,view everything, and more. Here are a few screenshots determining the live usage:
 
 **Main Interface**
 
 
 ![sql1](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/b2ddcebe-ac7f-4d28-8b3e-4d35e86628e7)
 
-**Viewing All Employees**
+**Viewing All Properties**
 
 
 ![sql2](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/cbc60c09-e8b1-45fe-ad39-405fa2d251f6)
