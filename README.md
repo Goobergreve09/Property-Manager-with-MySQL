@@ -1,4 +1,4 @@
-# Property Manager with mySQL
+# Property Manager with MySQL
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -97,4 +97,4 @@ If you have any additional questions you can contact me by using the following:
  Email Address: gregory.greve@yahoo.com
 
 
-# Property-Manager-with-MySQL
+
