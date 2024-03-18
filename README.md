@@ -43,7 +43,7 @@ For an propertymanager or myself to use this application you simply make sure yo
 **Viewing All Properties**
 
 
-![update](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/ac4de22f-0ba3-4b58-ac8a-dddd7a56ced2)
+![all](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/849d39df-00a2-44f8-9495-9b7b2870106e)
 
 **Updating a Property**
 
