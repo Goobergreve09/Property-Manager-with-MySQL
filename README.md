@@ -37,7 +37,8 @@ For an propertymanager or myself to use this application you simply make sure yo
 **Main Interface**
 
 
-![sql1](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/b2ddcebe-ac7f-4d28-8b3e-4d35e86628e7)
+![property](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/350ff8ad-4b93-4215-ac1f-be6f36b82401)
+
 
 **Viewing All Properties**
 
@@ -46,13 +47,12 @@ For an propertymanager or myself to use this application you simply make sure yo
 
 **Updating a Property**
 
-
-![propertycostm](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/db525adf-1972-4af1-adf9-4e47e5a69f9d)
+![update](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/ac4de22f-0ba3-4b58-ac8a-dddd7a56ced2)
 
 **Viewing Property Cost Management**
 
 
-![sql4](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/57d022b6-2701-4bde-a4ed-a67daf94f7da)
+![propertycostm](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/db525adf-1972-4af1-adf9-4e47e5a69f9d)
 
 ## Demonstration
 You can view a short video demonstration via youtube by clicking 'Demo Link' below:
