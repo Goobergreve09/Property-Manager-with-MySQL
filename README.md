@@ -42,14 +42,14 @@ For an propertymanager or myself to use this application you simply make sure yo
 **Viewing All Properties**
 
 
-![sql2](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/cbc60c09-e8b1-45fe-ad39-405fa2d251f6)
+![update](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/ac4de22f-0ba3-4b58-ac8a-dddd7a56ced2)
 
-**Updating an Employees Role**
+**Updating a Property**
 
 
 ![sql3](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/acbe58c9-2a0f-4601-9c36-a1372178dc2f)
 
-**Removing an employee from the database**
+**Viewing Property Cost Management**
 
 
 ![sql4](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/57d022b6-2701-4bde-a4ed-a67daf94f7da)
