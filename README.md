@@ -47,7 +47,7 @@ For an propertymanager or myself to use this application you simply make sure yo
 **Updating a Property**
 
 
-![sql3](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/acbe58c9-2a0f-4601-9c36-a1372178dc2f)
+![propertycostm](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/db525adf-1972-4af1-adf9-4e47e5a69f9d)
 
 **Viewing Property Cost Management**
 
