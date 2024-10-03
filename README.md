@@ -1,13 +1,13 @@
-# Employee Manager with mySQL
+# Property Manager with MySQL
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   
 ## Description
 
-This application was created and is used for backend development. This is an employee manager created with the mysql2 node package. It's an application designed for company's to view,update,and manage the employees through a database. It allows you to add,view, and delete roles, departments, and employees within a company. The application is used by the user through a series of prompts to be answered in the command line using nodes inquirer package. These answers directly effect the employee manager database.
+This application was created and is used for backend development. This is a property manager created with the mysql2 node package. It's an application designed for users to view,update,and manage the properties through a database. It allows you to add,view, and delete properties within your database. You can also view cost management by location or state. It automatically calculates cost with a preestimated mortgage cost tax by state that has been integrated into the CLI prompts. Simply answer the prompts given and the calculations with be completed for you.. The application is used by the user through a series of prompts to be answered in the command line using nodes inquirer package. These answers directly effect the property manager database.
 
-My main motivation for this application was to create an application to allow a company, big or small, to manage employees easily. It's a much more simple way to see everything about your company  that you need regarding employees, right in front of your eyes.
+My main motivation for this application was to create an application to allow an individual to manage properties for multiple properties. You can view all costs including mortgage, rent, loan, ect of individual properties or all of them totally added up.
   
 ## Table of Contents
 
@@ -32,27 +32,27 @@ Before using this generator I first had to make sure I had the necessary applica
 
 ## Usage
 
-For an employer or myself to use this application you simply make sure you are in the root directory and type `node index.js` into the CLI. From here you are now in the employee manager, and you can add employees, roles, departments, remove them,view everything, and more. Here are a few screenshots determining the live usage:
+For an propertymanager or myself to use this application you simply make sure you are in the root directory and type `node index.js` into the CLI. From here you are now in the employee manager, and you can add employees, roles, departments, remove them,view everything, and more. Here are a few screenshots determining the live usage:
 
 **Main Interface**
 
 
-![sql1](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/b2ddcebe-ac7f-4d28-8b3e-4d35e86628e7)
-
-**Viewing All Employees**
+![property](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/350ff8ad-4b93-4215-ac1f-be6f36b82401)
 
 
-![sql2](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/cbc60c09-e8b1-45fe-ad39-405fa2d251f6)
-
-**Updating an Employees Role**
+**Viewing All Properties**
 
 
-![sql3](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/acbe58c9-2a0f-4601-9c36-a1372178dc2f)
+![all](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/849d39df-00a2-44f8-9495-9b7b2870106e)
 
-**Removing an employee from the database**
+**Updating a Property**
+
+![update](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/ac4de22f-0ba3-4b58-ac8a-dddd7a56ced2)
+
+**Viewing Property Cost Management**
 
 
-![sql4](https://github.com/Goobergreve09/simple-logo-generator/assets/143923830/57d022b6-2701-4bde-a4ed-a67daf94f7da)
+![propertycostm](https://github.com/Goobergreve09/Property-Manager-with-MySQL/assets/143923830/db525adf-1972-4af1-adf9-4e47e5a69f9d)
 
 ## Demonstration
 You can view a short video demonstration via youtube by clicking 'Demo Link' below:
@@ -97,4 +97,4 @@ If you have any additional questions you can contact me by using the following:
  Email Address: gregory.greve@yahoo.com
 
 
-# Property-Manager-with-MySQL
+
